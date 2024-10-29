@@ -1,0 +1,9 @@
+openai
+jupyter
+python-dotenv
+pandas
+pandas-stubs
+scikit-learn
+black
+mypy
+rich
